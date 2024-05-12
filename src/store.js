@@ -26,3 +26,5 @@ function reducer(state = initialState, action) {
       return state;
   }
 }
+
+// Creating a Reducer: Bank Account
