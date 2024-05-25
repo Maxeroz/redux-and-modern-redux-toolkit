@@ -14,3 +14,5 @@ root.render(
     </Provider>
   </React.StrictMode>
 );
+
+// Redux Middleware and Thunks
